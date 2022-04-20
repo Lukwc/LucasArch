@@ -1,0 +1,2 @@
+# LucasArch
+dwm config
