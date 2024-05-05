@@ -1,5 +1,7 @@
 # LucasArch
 ## Dotfiles for dwm
 
-For minimal install use: xorg-server xorg-xinit xorg-xrandr xorg-xsetroot xorg-setxkbmap libxinerama
+Using it on Void you will need: base-devel libX11-devel libXinerama-devel libXft-devel
+
+for Luke's smith st, you will need: Harfbuzz-devel
 
